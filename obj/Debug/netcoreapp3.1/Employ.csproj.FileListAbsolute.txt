@@ -1,0 +1,13 @@
+C:\Users\pavel\source\repos\Employ\bin\Debug\netcoreapp3.1\Employ.exe
+C:\Users\pavel\source\repos\Employ\bin\Debug\netcoreapp3.1\Employ.deps.json
+C:\Users\pavel\source\repos\Employ\bin\Debug\netcoreapp3.1\Employ.runtimeconfig.json
+C:\Users\pavel\source\repos\Employ\bin\Debug\netcoreapp3.1\Employ.runtimeconfig.dev.json
+C:\Users\pavel\source\repos\Employ\bin\Debug\netcoreapp3.1\Employ.dll
+C:\Users\pavel\source\repos\Employ\bin\Debug\netcoreapp3.1\Employ.pdb
+C:\Users\pavel\source\repos\Employ\obj\Debug\netcoreapp3.1\Employ.csprojAssemblyReference.cache
+C:\Users\pavel\source\repos\Employ\obj\Debug\netcoreapp3.1\Employ.AssemblyInfoInputs.cache
+C:\Users\pavel\source\repos\Employ\obj\Debug\netcoreapp3.1\Employ.AssemblyInfo.cs
+C:\Users\pavel\source\repos\Employ\obj\Debug\netcoreapp3.1\Employ.csproj.CoreCompileInputs.cache
+C:\Users\pavel\source\repos\Employ\obj\Debug\netcoreapp3.1\Employ.dll
+C:\Users\pavel\source\repos\Employ\obj\Debug\netcoreapp3.1\Employ.pdb
+C:\Users\pavel\source\repos\Employ\obj\Debug\netcoreapp3.1\Employ.genruntimeconfig.cache
